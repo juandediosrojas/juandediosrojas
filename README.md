@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [JUAN DE DIOS ROJAS]
+# 👋 ¡Hola! Soy JUAN DE DIOS ROJAS
 
 💪 Joven, guapo, musculoso... y Desarrollador.  
 🎓 Estudiante de Ingeniería de Sistemas.  
@@ -42,7 +42,7 @@
 ## 📫 ¿Hablamos?
 
 - Email: [juanro9910@gmail.com]  
-- LinkedIn: [[Tu perfil aquí](https://www.linkedin.com/in/juan-de-dios-rojas-ni%C3%B1o-806148206/)]  
+- LinkedIn: [[Mi perfil aquí](https://www.linkedin.com/in/juan-de-dios-rojas-ni%C3%B1o-806148206/)]  
 
 ---
 
