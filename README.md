@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [TuNombreDeUsuario]
+# 👋 ¡Hola! Soy [JUAN DE DIOS ROJAS]
 
 💪 Joven, guapo, musculoso... y Desarrollador.  
 🎓 Estudiante de Ingeniería de Sistemas.  
